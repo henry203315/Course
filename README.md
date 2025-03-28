@@ -1,6 +1,8 @@
 # Course
 智慧城市導論
 
+<img src="exported_qrcode_image_600.png" width=500 height=500/>
+
 |      履歷        |<img src="圖片1.jpg" width=100 height=100/>|
 | ---------------- |:-----------------------------:|
 | 姓名             | 高宏逸                  |
